@@ -14,5 +14,29 @@ Maybe [OpenSCAD](http://www.openscad.org/) in the future.
 
 ## Project prototypes
 
-- Robotic Arm
-- Snow Sculpting Tools
+###  Robotic Arm
+  - [ ] Hand
+    - [ ] Finger
+      - [ ] Base 
+        - [ ] Distal
+        - [ ] Intermediate
+        - [ ] Proxmial
+      - [ ] Thumb
+      - [ ] Index
+      - [ ] Middle
+      - [ ] Ring
+      - [ ] Pinky
+    - [ ] Metacarpal
+    - [ ] Carpal
+    
+    
+*Vocabulary*
+
+![Hand parts vocabulary](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scheme_human_hand_bones-en.svg/406px-Scheme_human_hand_bones-en.svg.png)
+
+- [ ] Wrist
+- [ ] Forearm
+- [ ] Upper arm
+
+### Snow Sculpting Tools
+- [ ] Half-Moon
